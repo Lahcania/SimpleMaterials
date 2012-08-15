@@ -1,0 +1,4 @@
+name: SimpleMaterials
+main: wizardtaven.simplematerials.SimpleMaterials
+version: 0.1
+depend: [Spout]
